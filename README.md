@@ -41,7 +41,7 @@ To simplify complex folder structures, I used a **path-prefix** strategy. This a
 
 ---
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Node.js (v14+)
